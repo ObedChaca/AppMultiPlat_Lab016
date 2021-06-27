@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "name":"Hospital Alberto Sabogal",
+        "phone":"429-0728",
+        "address":"Jr. Colina 1081, Bellavista, Callao.",
+        "fundation":"08/09/1941"
+    },
+    {
+        "id":"2",
+        "name":"Hopital Cayetano Heredia",
+        "phone":"482-0402",
+        "address":"Av. Honorio Delgado 262, Urb. Ingeniería, San Martín de Porres.",
+        "fundation":"21/07/1968"
+    },
+    {
+        "id":"3",
+        "name":"Hospital Alberto Sabogal",
+        "phone":"429-0728",
+        "address":"Jr. Colina 1081, Bellavista, Callao.",
+        "fundation":"08/09/1941"
+    },
+    {
+        "id":"4",
+        "name":"Hospital Central FAP",
+        "phone":"513-5300",
+        "address":"Av. Aramburú Cdra. 2 s/n, Miraflores.",
+        "fundation":"30/04/1970"
+    },
+    {
+        "id":"5",
+        "name":"Hospital Daniel Alcides Carrión",
+        "phone":"614-7474",
+        "address":"Av. Guardia Chalaca 2176, Callao.",
+        "fundation":"30/12/1941"
+    },
+    {
+        "id":"6",
+        "name":"Hospital de Emergencias Pediátricas",
+        "phone":"474-9790",
+        "address":"Av. Grau 800, La Victoria.",
+        "fundation":"18/07/1980"
+    }
+]
